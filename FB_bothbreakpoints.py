@@ -1,3 +1,4 @@
+conda install -c bioconda seqfold
 from seqfold import fold, dg, dg_cache, dot_bracket
 import pandas
 
